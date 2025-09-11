@@ -1,0 +1,3575 @@
+{
+  "name": "Martha's Vineyard",
+  "categories": [
+    {
+      "name": "Premium",
+      "color": "#3873D1"
+    }
+  ],
+  "zones": [
+    {
+      "name": "BG",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "rows": [],
+      "areas": [
+        {
+          "shape": "rectangle",
+          "color": "#B50E0E",
+          "border_color": "#000000",
+          "rotation": 0,
+          "uuid": "2f212828-fd09-45e6-a194-1f8ab3cfa04b",
+          "position": {
+            "x": 667.3180980070059,
+            "y": 1319.780321111896
+          },
+          "text": {
+            "position": {
+              "x": 129.7121,
+              "y": 94.6645
+            },
+            "color": "#333333",
+            "text": "",
+            "size": 23
+          },
+          "rectangle": {
+            "width": 259.1786861968328,
+            "height": 189.14992277832513
+          }
+        },
+        {
+          "shape": "text",
+          "rotation": 0,
+          "uuid": "f189b5f9-0ca5-453a-a7d0-dfa606b46647",
+          "position": {
+            "x": 793.6055009683965,
+            "y": 1563.96791540044
+          },
+          "text": {
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "color": "#FF0000",
+            "text": "Main Entrance",
+            "size": 22
+          }
+        },
+        {
+          "shape": "rectangle",
+          "color": "#464646",
+          "border_color": "#000000",
+          "rotation": 0,
+          "uuid": "c3f6b547-aef1-4fc5-a361-c10f1e9b7f9b",
+          "position": {
+            "x": 681.3751123913731,
+            "y": 1332.3054622868553
+          },
+          "text": {
+            "position": {
+              "x": 118.05860000000001,
+              "y": 75.5376
+            },
+            "color": "#DADADA",
+            "text": "",
+            "size": 22
+          },
+          "rectangle": {
+            "width": 231.78856995094893,
+            "height": 163.81917578556
+          }
+        },
+        {
+          "shape": "polygon",
+          "color": "#cccccc",
+          "border_color": "#000001",
+          "rotation": 0,
+          "uuid": "0c6ec896-23df-4f41-8598-4243f846f03f",
+          "position": {
+            "x": 183.92988594027983,
+            "y": 672.8709112613386
+          },
+          "text": {
+            "position": {
+              "x": 130.23045014616582,
+              "y": 265.41334202022006
+            },
+            "color": "#333333",
+            "text": "LEFT",
+            "size": 71
+          },
+          "polygon": {
+            "points": [
+              {
+                "x": 146.69390369564218,
+                "y": 0
+              },
+              {
+                "x": 324.46090029233164,
+                "y": 160.4238749775003
+              },
+              {
+                "x": 122.12448140179077,
+                "y": 578.8266840404401
+              },
+              {
+                "x": -0.014773624329592394,
+                "y": 468.8794598832717
+              },
+              {
+                "x": -0.6290860122874165,
+                "y": 162.68530923507774
+              }
+            ]
+          }
+        },
+        {
+          "shape": "polygon",
+          "color": "#cccccc",
+          "border_color": "#000001",
+          "rotation": 0,
+          "uuid": "98531467-ceec-42c2-8326-d26f160ddf3e",
+          "position": {
+            "x": 365.27798493357574,
+            "y": 872.530820991647
+          },
+          "text": {
+            "position": {
+              "x": 255.23837902264495,
+              "y": 154.55303933253742
+            },
+            "color": "#333333",
+            "text": "LEFT",
+            "size": 70
+          },
+          "polygon": {
+            "points": [
+              {
+                "x": 0,
+                "y": 449.10607866507485
+              },
+              {
+                "x": 293.68295589987923,
+                "y": 449.10607866507485
+              },
+              {
+                "x": 293.68295589987923,
+                "y": 421.4541120381382
+              },
+              {
+                "x": 400.47675804528984,
+                "y": 421.4541120381382
+              },
+              {
+                "x": 400.47675804528984,
+                "y": 0.953516090584003
+              },
+              {
+                "x": 155.42312276519584,
+                "y": 0
+              }
+            ]
+          }
+        },
+        {
+          "shape": "polygon",
+          "color": "#cccccc",
+          "border_color": "#000001",
+          "rotation": 0,
+          "uuid": "9e8a8fab-93a6-4b33-831c-357d1de9ca88",
+          "position": {
+            "x": 822.2480067380251,
+            "y": 873.4309746419488
+          },
+          "text": {
+            "position": {
+              "x": 155.62206693812158,
+              "y": 154.95462037432526
+            },
+            "color": "#333333",
+            "text": "RIGHT",
+            "size": 70
+          },
+          "polygon": {
+            "points": [
+              {
+                "x": 403.24413387624315,
+                "y": 447.2801547363631
+              },
+              {
+                "x": 111.34822417487521,
+                "y": 447.9092407486505
+              },
+              {
+                "x": 111.34822417487521,
+                "y": 420.85854222029116
+              },
+              {
+                "x": 0,
+                "y": 420.85854222029116
+              },
+              {
+                "x": 1.2581720245749466,
+                "y": 0.6290860122874165
+              },
+              {
+                "x": 246.60171681667282,
+                "y": 0
+              }
+            ]
+          }
+        },
+        {
+          "shape": "polygon",
+          "color": "#cccccc",
+          "border_color": "#000001",
+          "rotation": 0,
+          "uuid": "73d7f8b2-02c8-4729-9623-c98279c7d3ba",
+          "position": {
+            "x": 1079.8934870371925,
+            "y": 675.6085560996806
+          },
+          "text": {
+            "position": {
+              "x": 200.4936044355752,
+              "y": 265.0935474332562
+            },
+            "color": "#333333",
+            "text": "RIGHT",
+            "size": 70
+          },
+          "polygon": {
+            "points": [
+              {
+                "x": 204.00882784747319,
+                "y": 576.1870948665124
+              },
+              {
+                "x": 0,
+                "y": 158.97985233158954
+              },
+              {
+                "x": 176.44006732754428,
+                "y": 0
+              },
+              {
+                "x": 330.3800897724243,
+                "y": 169.47566282117555
+              },
+              {
+                "x": 330.68926525744905,
+                "y": 466.5796074868791
+              }
+            ]
+          }
+        },
+        {
+          "shape": "text",
+          "rotation": 0,
+          "uuid": "6eb27bc4-448a-474c-8619-4407154e197b",
+          "position": {
+            "x": 608.1983676544384,
+            "y": 1126.777916470225
+          },
+          "text": {
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "color": "#333333",
+            "text": "CENTER",
+            "size": 70
+          }
+        },
+        {
+          "shape": "text",
+          "rotation": 0,
+          "uuid": "3996b957-982d-4ee6-b902-5c5f7ed2b763",
+          "position": {
+            "x": 994.1703296399149,
+            "y": 1124.1482153551524
+          },
+          "text": {
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "color": "#333333",
+            "text": "CENTER",
+            "size": 70
+          }
+        },
+        {
+          "shape": "text",
+          "rotation": 0,
+          "uuid": "233d75f4-b5ad-40cf-b499-9a897acdc5f0",
+          "position": {
+            "x": 300.5407070483868,
+            "y": 1023.2442125953232
+          },
+          "text": {
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "color": "#FF0000",
+            "text": "16 Rows",
+            "size": 30
+          }
+        },
+        {
+          "shape": "text",
+          "rotation": 0,
+          "uuid": "a8a1f0e9-0c2a-4e34-a545-26cc2994128d",
+          "position": {
+            "x": 588.9851882996677,
+            "y": 1197.737817030898
+          },
+          "text": {
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "color": "#FF0000",
+            "text": "17 Rows",
+            "size": 30
+          }
+        },
+        {
+          "shape": "text",
+          "rotation": 0,
+          "uuid": "df5e840a-eedc-4c54-932e-594fdfdb1313",
+          "position": {
+            "x": 1011.5976374146023,
+            "y": 1194.8723954549314
+          },
+          "text": {
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "color": "#FF0000",
+            "text": "17 Rows",
+            "size": 30
+          }
+        },
+        {
+          "shape": "text",
+          "rotation": 0,
+          "uuid": "31614697-ab7b-4d25-b9a0-321d923fdd42",
+          "position": {
+            "x": 1296.3662839298931,
+            "y": 1019.242741287411
+          },
+          "text": {
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "color": "#FF0000",
+            "text": "17 Rows",
+            "size": 30
+          }
+        },
+        {
+          "shape": "polygon",
+          "color": "#cccccc",
+          "border_color": "#000001",
+          "rotation": 0,
+          "uuid": "e6cdda29-2cc9-43d6-b686-bc4595e6267d",
+          "position": {
+            "x": 580.6055671338501,
+            "y": 159.411581434006
+          },
+          "text": {
+            "position": {
+              "x": 219.72696217594137,
+              "y": 154.9580002667099
+            },
+            "color": "#333333",
+            "text": "STAGE",
+            "size": 80
+          },
+          "polygon": {
+            "points": [
+              {
+                "x": 0.14308241933520094,
+                "y": 0.49558653019215626
+              },
+              {
+                "x": 0,
+                "y": 227.03958690762886
+              },
+              {
+                "x": 82.87641362579086,
+                "y": 309.9160005334198
+              },
+              {
+                "x": 336.3807376576218,
+                "y": 309.9160005334198
+              },
+              {
+                "x": 439.67644258524354,
+                "y": 230.52901059845198
+              },
+              {
+                "x": 439.45392435188273,
+                "y": 0
+              }
+            ]
+          }
+        },
+        {
+          "shape": "text",
+          "rotation": 0,
+          "uuid": "80e45878-932a-4f0f-b3cc-a856bd2d2a61",
+          "position": {
+            "x": 796.6601292323437,
+            "y": 1395.6186495232503
+          },
+          "text": {
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "color": "#FFFFFF",
+            "text": "Elevated ",
+            "size": 31
+          }
+        },
+        {
+          "shape": "text",
+          "rotation": 0,
+          "uuid": "2d2e63a5-2b97-4cb2-b690-2760d8984a49",
+          "position": {
+            "x": 798.4789891121562,
+            "y": 1434.479629070162
+          },
+          "text": {
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "color": "#FFFFFF",
+            "text": "Sound Booth",
+            "size": 31
+          }
+        }
+      ],
+      "uuid": "89e9b0e4-c901-42b3-aa58-b9f77641bc5a",
+      "zone_id": "BG"
+    },
+    {
+      "name": "Section A",
+      "zone_id": "SectionA",
+      "uuid": "e876733a-6887-414c-990e-9243f648beec",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "rows": [
+        {
+          "position": {
+            "x": 525.2078291668918,
+            "y": 471.22671540462915
+          },
+          "row_number": "A",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionA-A-12",
+              "uuid": "8f715707-b0f3-4d4d-8739-670edfe2699e",
+              "position": {
+                "x": -1.4210854715202004e-14,
+                "y": -5.684341886080802e-14
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionA-A-11",
+              "uuid": "be384ce9-287a-4fe5-b36b-1a40a1542792",
+              "position": {
+                "x": 13.363776989421194,
+                "y": 12.058584683826494
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionA-A-10",
+              "uuid": "94588d88-3578-4c49-9542-f4c4d7022c45",
+              "position": {
+                "x": 26.72755397884244,
+                "y": 24.117169367653
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionA-A-9",
+              "uuid": "e2f2a82b-9868-42eb-8b66-0e2e91d6e296",
+              "position": {
+                "x": 40.09133096826382,
+                "y": 36.175754051479366
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionA-A-8",
+              "uuid": "d6f60d4f-afa0-47a3-8d2c-57678715b5cc",
+              "position": {
+                "x": 53.45510795768505,
+                "y": 48.23433873530589
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionA-A-7",
+              "uuid": "8ff091fa-1498-4460-917a-1be1c1c918a8",
+              "position": {
+                "x": 66.8188849471063,
+                "y": 60.2929234191324
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "33b645ba-864a-47e3-a30e-8ad1a10908d5"
+        },
+        {
+          "position": {
+            "x": 501.0906597992391,
+            "y": 497.9542693834715
+          },
+          "row_number": "B",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionA-B-12",
+              "uuid": "039aa715-7668-4904-b6f6-201a2e488cc3",
+              "position": {
+                "x": -1.2079226507921703e-13,
+                "y": 1.7053025658242404e-13
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionA-B-11",
+              "uuid": "c251f6eb-912c-40c5-bc2e-0b0e9972bfcb",
+              "position": {
+                "x": 13.36377698942118,
+                "y": 12.05858468382662
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionA-B-10",
+              "uuid": "03775f07-b666-4435-9b03-30276adefc42",
+              "position": {
+                "x": 26.72755397884238,
+                "y": 24.117169367653176
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionA-B-9",
+              "uuid": "e1f81d08-fad4-47e6-9ac6-d075e7e439b8",
+              "position": {
+                "x": 40.09133096826364,
+                "y": 36.175754051479664
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionA-B-8",
+              "uuid": "79bd8206-c7c9-4f71-bef9-57600bb1b348",
+              "position": {
+                "x": 53.4551079576849,
+                "y": 48.23433873530615
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionA-B-7",
+              "uuid": "4432e73c-1668-444c-a78a-bd11245b768d",
+              "position": {
+                "x": 66.81888494710617,
+                "y": 60.29292341913264
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "f4c889b7-8ffe-4a43-aba1-354b31c1d29c"
+        },
+        {
+          "position": {
+            "x": 476.97349043158613,
+            "y": 524.6818233623139
+          },
+          "row_number": "C",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionA-C-12",
+              "uuid": "56e9ccf5-9cce-4f77-a97c-a1e17db3f758",
+              "position": {
+                "x": 3.268496584496461e-13,
+                "y": -1.1368683772161603e-13
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionA-C-11",
+              "uuid": "17fe666b-0938-463f-88d1-61e33de9c78d",
+              "position": {
+                "x": 13.363776989421613,
+                "y": 12.058584683826348
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionA-C-10",
+              "uuid": "35101329-f72e-499e-8a24-524b57567dbf",
+              "position": {
+                "x": 26.727553978842842,
+                "y": 24.117169367652878
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionA-C-9",
+              "uuid": "b7914d1d-10ce-4ce6-8f09-e3caf5dfa864",
+              "position": {
+                "x": 40.09133096826413,
+                "y": 36.17575405147934
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionA-C-8",
+              "uuid": "55a9ceff-79cf-4c96-8f77-9375e77160c6",
+              "position": {
+                "x": 53.45510795768537,
+                "y": 48.23433873530585
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionA-C-7",
+              "uuid": "92e7185a-308c-4264-aa3f-e09e90c55cd8",
+              "position": {
+                "x": 66.81888494710665,
+                "y": 60.29292341913232
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "a97d5d31-df9a-4ce1-9107-81da37f6397e"
+        },
+        {
+          "position": {
+            "x": 452.8563210639332,
+            "y": 551.4093773411569
+          },
+          "row_number": "D",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionA-D-12",
+              "uuid": "750a8767-d013-4712-8561-236ea03b05b4",
+              "position": {
+                "x": -1.5631940186722204e-13,
+                "y": -1.1368683772161603e-13
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionA-D-11",
+              "uuid": "a82396e3-391f-4d83-8c64-366336d71270",
+              "position": {
+                "x": 13.363776989421137,
+                "y": 12.05858468382634
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionA-D-10",
+              "uuid": "793b4089-d11b-4f20-ad2e-ca208582026f",
+              "position": {
+                "x": 26.72755397884238,
+                "y": 24.11716936765285
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionA-D-9",
+              "uuid": "0b1e0458-f182-465b-8910-0b4758e1a0eb",
+              "position": {
+                "x": 40.09133096826366,
+                "y": 36.175754051479316
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionA-D-8",
+              "uuid": "b3db79a0-8ff8-489c-a91e-35445d3db0d5",
+              "position": {
+                "x": 53.455107957684916,
+                "y": 48.23433873530581
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionA-D-7",
+              "uuid": "fe30ba36-f08f-47f8-b464-a97acd384d1e",
+              "position": {
+                "x": 66.81888494710617,
+                "y": 60.29292341913231
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionA-D-6",
+              "uuid": "5326d31c-7325-4ea5-9bba-b8f2435b117f",
+              "position": {
+                "x": 80.18266193652745,
+                "y": 72.35150810295877
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionA-D-5",
+              "uuid": "1b19d568-c94c-4581-a442-5207ffa5aa5b",
+              "position": {
+                "x": 93.54643892594873,
+                "y": 84.41009278678524
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionA-D-4",
+              "uuid": "f172feac-2db2-49c5-990c-a62b8f42f585",
+              "position": {
+                "x": 106.91021591536993,
+                "y": 96.46867747061181
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "f0d9fb32-ceba-44ae-b7d5-177adc0aa12e"
+        },
+        {
+          "position": {
+            "x": 428.7391516962803,
+            "y": 578.1369313199993
+          },
+          "row_number": "E",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionA-E-12",
+              "uuid": "7248b0c5-14e3-4ef6-9517-3c294b83c709",
+              "position": {
+                "x": -5.684341886080802e-14,
+                "y": 2.1316282072803006e-14
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionA-E-11",
+              "uuid": "c776580a-630b-4dd6-8bf3-8ea5d9cf42f6",
+              "position": {
+                "x": 13.363776989421176,
+                "y": 12.058584683826542
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionA-E-10",
+              "uuid": "3eecda4d-85f6-43f0-b864-1ff010c428f4",
+              "position": {
+                "x": 26.7275539788425,
+                "y": 24.117169367652963
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionA-E-9",
+              "uuid": "1e598abf-ce0d-41bd-a121-8482ad4c39be",
+              "position": {
+                "x": 40.09133096826373,
+                "y": 36.17575405147948
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionA-E-8",
+              "uuid": "03327592-0e3e-4b60-a115-9034e3ffa288",
+              "position": {
+                "x": 53.45510795768494,
+                "y": 48.23433873530604
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionA-E-7",
+              "uuid": "d5a288ed-efb1-4517-b53e-a99c6e519995",
+              "position": {
+                "x": 66.81888494710624,
+                "y": 60.29292341913248
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionA-E-6",
+              "uuid": "eadf6cf1-b06d-4736-9036-d844478a73d3",
+              "position": {
+                "x": 80.18266193652744,
+                "y": 72.35150810295904
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionA-E-5",
+              "uuid": "c8beb144-2ddb-43ea-9257-9807fb93a104",
+              "position": {
+                "x": 93.54643892594873,
+                "y": 84.4100927867855
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionA-E-4",
+              "uuid": "fde68b76-615e-4a33-a61c-68487fd8ab00",
+              "position": {
+                "x": 106.91021591536999,
+                "y": 96.46867747061201
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionA-E-3",
+              "uuid": "afc1be7b-e0c7-433d-ba4e-f2583c4aff18",
+              "position": {
+                "x": 120.2739929047914,
+                "y": 108.52726215443833
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "da3ac559-599e-451e-85ad-d590e7017424"
+        },
+        {
+          "position": {
+            "x": 404.62198232862715,
+            "y": 604.8644852988418
+          },
+          "row_number": "F",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionA-F-12",
+              "uuid": "78e4f9a6-f5a6-4847-b43a-eb5f6f1b40a4",
+              "position": {
+                "x": -3.410605131648481e-13,
+                "y": 2.0961010704922955e-13
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionA-F-11",
+              "uuid": "095533f0-6c61-478f-871d-4c3ad6dd14e4",
+              "position": {
+                "x": 13.363776989421012,
+                "y": 12.058584683826595
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionA-F-10",
+              "uuid": "f8cf145a-a00b-461a-b3b0-abe3adfd1989",
+              "position": {
+                "x": 26.72755397884226,
+                "y": 24.117169367653098
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionA-F-9",
+              "uuid": "4cdc53aa-d333-43c2-996c-4bf584d44cf7",
+              "position": {
+                "x": 40.09133096826346,
+                "y": 36.17575405147965
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionA-F-8",
+              "uuid": "db781778-c459-4c0f-8b7c-42c6ab4bf114",
+              "position": {
+                "x": 53.45510795768479,
+                "y": 48.23433873530607
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionA-F-7",
+              "uuid": "0dfec3df-b045-4e17-8b4f-8bc14b4fa8d3",
+              "position": {
+                "x": 66.81888494710603,
+                "y": 60.29292341913259
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionA-F-6",
+              "uuid": "9094aee8-deb1-47ff-be15-22c6bf822f07",
+              "position": {
+                "x": 80.18266193652732,
+                "y": 72.35150810295904
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionA-F-5",
+              "uuid": "70215ae5-1122-44fe-9165-d57c31e46841",
+              "position": {
+                "x": 93.54643892594858,
+                "y": 84.41009278678554
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionA-F-4",
+              "uuid": "50391703-0eba-42e7-9a38-0d877c69f1cb",
+              "position": {
+                "x": 106.9102159153698,
+                "y": 96.46867747061206
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionA-F-3",
+              "uuid": "2230b6d9-564c-4753-803b-a98c350ad2bc",
+              "position": {
+                "x": 120.27399290479113,
+                "y": 108.52726215443849
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionA-F-2",
+              "uuid": "5fd07852-a0fb-44c5-a61a-50ca18d9a70c",
+              "position": {
+                "x": 133.63776989421228,
+                "y": 120.5858468382651
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionA-F-1",
+              "uuid": "cc19fb3b-d10d-4501-8aa6-75551efb2c97",
+              "position": {
+                "x": 147.00154688363344,
+                "y": 132.6444315220917
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "ceb43002-a205-4551-89f0-7dd9cc591ff2"
+        },
+        {
+          "position": {
+            "x": 380.50481296097416,
+            "y": 631.5920392776843
+          },
+          "row_number": "G",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionA-G-12",
+              "uuid": "7d653605-2300-4378-9cc7-857fb39ef653",
+              "position": {
+                "x": -1.4210854715202004e-13,
+                "y": -7.904787935331115e-14
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionA-G-11",
+              "uuid": "ba83f17d-724a-49da-8c60-7c93de77d71a",
+              "position": {
+                "x": 13.363776989421224,
+                "y": 12.058584683826297
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionA-G-10",
+              "uuid": "142504ca-500e-4380-8db9-b358a884ea4b",
+              "position": {
+                "x": 26.727553978842387,
+                "y": 24.117169367652895
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionA-G-9",
+              "uuid": "38824fee-0405-44e0-b618-1cebbca4193d",
+              "position": {
+                "x": 40.09133096826366,
+                "y": 36.17575405147937
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionA-G-8",
+              "uuid": "5d045484-905b-4f66-9879-a00853fcdd9c",
+              "position": {
+                "x": 53.455107957684916,
+                "y": 48.23433873530587
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionA-G-7",
+              "uuid": "bd943399-c81b-44c5-92a7-9d6d6e8a75c8",
+              "position": {
+                "x": 66.81888494710617,
+                "y": 60.29292341913236
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionA-G-6",
+              "uuid": "325b6153-d98e-4028-bcb1-8e3274f8ad05",
+              "position": {
+                "x": 80.18266193652744,
+                "y": 72.35150810295883
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionA-G-5",
+              "uuid": "2b685b45-102f-42c6-8501-18743b38a3c7",
+              "position": {
+                "x": 93.54643892594862,
+                "y": 84.41009278678541
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionA-G-4",
+              "uuid": "9982b1b1-4564-4c85-b074-50e535ca91e8",
+              "position": {
+                "x": 106.91021591536992,
+                "y": 96.46867747061187
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionA-G-3",
+              "uuid": "455d2575-126d-438f-8094-4f9d5f38ff04",
+              "position": {
+                "x": 120.2739929047913,
+                "y": 108.5272621544382
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionA-G-2",
+              "uuid": "ae1004f8-1909-415e-9da0-1cb71407a1e8",
+              "position": {
+                "x": 133.63776989421254,
+                "y": 120.58584683826473
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionA-G-1",
+              "uuid": "4b9487dc-ecbb-4081-bab9-cfc41b9f8624",
+              "position": {
+                "x": 147.00154688363378,
+                "y": 132.64443152209125
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "00499d49-1996-4648-a834-2b9580b70b96"
+        }
+      ],
+      "areas": []
+    },
+    {
+      "name": "Section B",
+      "zone_id": "SectionB",
+      "uuid": "6d59e675-2719-4a29-89df-570a46f3719f",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "rows": [
+        {
+          "position": {
+            "x": 573.3332536777256,
+            "y": 592.2446153294055
+          },
+          "row_number": "A",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionB-A-6",
+              "uuid": "583a7f81-968b-45a5-974d-622e0b8224dc",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionB-A-5",
+              "uuid": "1c6061bb-c75c-4841-b21c-4cc69363b07b",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionB-A-4",
+              "uuid": "fb487884-7ea4-44e8-add9-ca0b045bc3cd",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionB-A-3",
+              "uuid": "8d968578-9078-4e70-8ffd-745419ab013f",
+              "position": {
+                "x": 153,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionB-A-2",
+              "uuid": "ec84f9b8-c4e8-4bc0-8c57-4c6a9dd025af",
+              "position": {
+                "x": 170,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionB-A-1",
+              "uuid": "3f02188d-a91b-4fae-96a7-bed5a5f18e3e",
+              "position": {
+                "x": 187,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "7f775d72-127e-4574-8f38-9857cc596a7b"
+        },
+        {
+          "position": {
+            "x": 573.3332536777256,
+            "y": 628.2446153294055
+          },
+          "row_number": "B",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionB-B-7",
+              "uuid": "c4add836-52d6-461b-aa39-7ed9a0bac151",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionB-B-6",
+              "uuid": "039e66f8-c6cc-470a-940e-1eeaa8c2a054",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionB-B-5",
+              "uuid": "9ac1a65c-b45d-48a7-b518-0abb8a7082da",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionB-B-4",
+              "uuid": "497edac2-4cad-4876-b35e-5bec4a6379ea",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionB-B-3",
+              "uuid": "b7ef1cb6-b7f2-492b-b782-345b41a4936c",
+              "position": {
+                "x": 153,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionB-B-2",
+              "uuid": "a41fea24-5c44-4587-a6b8-4ee6aca12221",
+              "position": {
+                "x": 170,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionB-B-1",
+              "uuid": "74d0b607-7865-486b-909f-ab5229927cdd",
+              "position": {
+                "x": 187,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "29ccc015-d3ea-4c6e-8659-1c50a3190c3c"
+        },
+        {
+          "position": {
+            "x": 573.3332536777256,
+            "y": 664.2446153294055
+          },
+          "row_number": "C",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionB-C-8",
+              "uuid": "939937dc-652a-43bf-821e-4bc634cacc49",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionB-C-7",
+              "uuid": "25d30669-2ace-423f-aa7a-afaab5b4d59b",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionB-C-6",
+              "uuid": "ffa71ccb-776a-4708-9ee6-78b4c41aae84",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionB-C-5",
+              "uuid": "17f02f04-3991-4045-9b08-2cff71249c3c",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionB-C-4",
+              "uuid": "bf94a0e8-199b-4cbe-9715-d598eef1189d",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionB-C-3",
+              "uuid": "a478ead1-b65d-4974-ad43-a034777e202d",
+              "position": {
+                "x": 153,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionB-C-2",
+              "uuid": "70ef9a2f-84c6-4bbf-b700-517a5a5a1ab8",
+              "position": {
+                "x": 170,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionB-C-1",
+              "uuid": "f9406e43-586b-4192-bc1c-eecd6cba6f46",
+              "position": {
+                "x": 187,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "5dba2d87-f831-4549-b504-822290fc76f0"
+        },
+        {
+          "position": {
+            "x": 573.3332536777256,
+            "y": 700.2446153294055
+          },
+          "row_number": "D",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionB-D-9",
+              "uuid": "12e5f14a-1e11-4008-93de-6b8a58faf487",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionB-D-8",
+              "uuid": "fc2a38ef-8ed8-4324-9089-237255dcf0b3",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionB-D-7",
+              "uuid": "8f573797-d3cf-4033-ba45-02a0bedade6f",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionB-D-6",
+              "uuid": "e43bf03b-222a-47bc-bac4-2393ccea663b",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionB-D-5",
+              "uuid": "55f8f414-c923-4f39-9716-ba66afd8b135",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionB-D-4",
+              "uuid": "58e4fda0-6632-42a7-b257-831c24555fb3",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionB-D-3",
+              "uuid": "1a0d62e7-b78e-4fb5-8d14-ec457a5c653f",
+              "position": {
+                "x": 153,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionB-D-2",
+              "uuid": "e3f0d861-27eb-45a0-adf6-8514fe27c046",
+              "position": {
+                "x": 170,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionB-D-1",
+              "uuid": "04545d5a-78e3-40cb-8ab9-462416820ad7",
+              "position": {
+                "x": 187,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "b8e10edb-2bbf-4ca6-9551-d6620cfcfc54"
+        },
+        {
+          "position": {
+            "x": 573.3332536777256,
+            "y": 736.2446153294055
+          },
+          "row_number": "E",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionB-E-10",
+              "uuid": "5a876708-112c-43e6-934c-aba94ab24cd2",
+              "position": {
+                "x": 34,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionB-E-9",
+              "uuid": "ec19243e-9ee2-4ab0-8573-f72a8399a9e5",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionB-E-8",
+              "uuid": "06f4530f-0000-48e5-bb4c-6930d8e3833a",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionB-E-7",
+              "uuid": "5efb4463-1e3f-4e59-bde0-fca3dd812954",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionB-E-6",
+              "uuid": "71cd517e-b1c4-4cc8-8067-769026bbac1e",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionB-E-5",
+              "uuid": "4e70e56d-2cfc-449e-a793-b24088808e71",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionB-E-4",
+              "uuid": "d9b15ff6-3139-4ccf-92c1-242b885e6c3f",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionB-E-3",
+              "uuid": "633c68c7-c0bc-4ced-9504-4b0c5029004d",
+              "position": {
+                "x": 153,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionB-E-2",
+              "uuid": "c819d78e-2c6a-45b8-a30b-5e6150aa71e4",
+              "position": {
+                "x": 170,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionB-E-1",
+              "uuid": "a4995545-4e0b-4d02-b9ff-f5d768fa0546",
+              "position": {
+                "x": 187,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "afcd0a45-fcf4-46d7-ba27-ff5a8a1fa141"
+        },
+        {
+          "position": {
+            "x": 573.3332536777256,
+            "y": 772.2446153294055
+          },
+          "row_number": "F",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionB-F-11",
+              "uuid": "c8e88611-0fec-44d4-934a-c4055a550533",
+              "position": {
+                "x": 17,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionB-F-10",
+              "uuid": "d461bbfe-67ac-4ec7-9b31-809479ad76d9",
+              "position": {
+                "x": 34,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionB-F-9",
+              "uuid": "272df935-6590-4f50-a07b-70366a2e3372",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionB-F-8",
+              "uuid": "1ed06f1d-761c-4fa2-b950-892b4f7960bf",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionB-F-7",
+              "uuid": "691cf85c-c354-453f-b025-9ee006d514c9",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionB-F-6",
+              "uuid": "08785cd0-83c0-4e0e-8f9f-3637787adffa",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionB-F-5",
+              "uuid": "046d09e6-59de-4458-80b5-92a6556fad1b",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionB-F-4",
+              "uuid": "cd82135c-af53-4093-bcb5-24c4d0a2ea1e",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionB-F-3",
+              "uuid": "890a67c9-b828-4c53-8968-7f2f8b9fe415",
+              "position": {
+                "x": 153,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionB-F-2",
+              "uuid": "9aa4d664-6ec1-4ba5-b750-6d2779d04549",
+              "position": {
+                "x": 170,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionB-F-1",
+              "uuid": "de1874e3-664a-46cf-a058-734d4cc3c1cf",
+              "position": {
+                "x": 187,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "dd454090-1a29-490d-aed9-01fd2336d1c5"
+        },
+        {
+          "position": {
+            "x": 573.3332536777256,
+            "y": 808.2446153294055
+          },
+          "row_number": "G",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionB-G-12",
+              "uuid": "b75b08ab-2fb8-45f1-ae4e-abcbabfbe1a3",
+              "position": {
+                "x": 0,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionB-G-11",
+              "uuid": "629c554d-ba7a-44fc-ace6-20be357ca6c9",
+              "position": {
+                "x": 17,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionB-G-10",
+              "uuid": "715d2989-9aa1-4501-9cbe-1ea163bca68a",
+              "position": {
+                "x": 34,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionB-G-9",
+              "uuid": "f58d2945-2d4e-4769-ba84-0d151f7fa1a3",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionB-G-8",
+              "uuid": "83aad46d-c822-4be1-97db-903661aa3bee",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionB-G-7",
+              "uuid": "3e098a37-23d3-413a-89ed-e88cd2954848",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionB-G-6",
+              "uuid": "ad05a9d7-e3c1-4c90-945c-2c85ee6b850a",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionB-G-5",
+              "uuid": "9004f1ed-374a-450a-8609-ecd0d6a28877",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionB-G-4",
+              "uuid": "718a339f-b31a-4af8-a1bf-e4f4f7681770",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionB-G-3",
+              "uuid": "c0e14e78-49d4-4aa0-b66e-a06af79f2525",
+              "position": {
+                "x": 153,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionB-G-2",
+              "uuid": "f3e5f7df-f5cd-44b7-a19e-1bffe8b75235",
+              "position": {
+                "x": 170,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionB-G-1",
+              "uuid": "889670a4-8690-4fa9-9273-9916fcff941a",
+              "position": {
+                "x": 187,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "18b7d103-eb01-4f17-abe6-2538922b25c7"
+        }
+      ],
+      "areas": []
+    },
+    {
+      "name": "Section C",
+      "zone_id": "SectionC",
+      "uuid": "1c1d47ef-3ebd-4b1c-b506-5b19509829ea",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "rows": [
+        {
+          "position": {
+            "x": 829.0735125329725,
+            "y": 591.9283464109146
+          },
+          "row_number": "A",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionC-A-12",
+              "uuid": "f93ec991-9dc2-4701-8e3f-b8aaca1d3412",
+              "position": {
+                "x": 0,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionC-A-11",
+              "uuid": "31ff7e36-e0cb-4671-84e7-76980324325f",
+              "position": {
+                "x": 17,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionC-A-10",
+              "uuid": "e449f283-d7a8-4592-998b-1dfda187ae26",
+              "position": {
+                "x": 34,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionC-A-9",
+              "uuid": "2afc222f-6191-44f3-afd4-9edddfa6039d",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionC-A-8",
+              "uuid": "0049afa8-5863-431b-98f6-d24dbea9e645",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionC-A-7",
+              "uuid": "b31650d8-bb3a-4912-8907-10e239da4f78",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "ca7ec46b-6ce2-47c9-b2d8-04f38ab8a084"
+        },
+        {
+          "position": {
+            "x": 829.0735125329725,
+            "y": 627.9283464109146
+          },
+          "row_number": "B",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionC-B-12",
+              "uuid": "8eb06fd2-6efa-4ebb-a402-814070f86ba2",
+              "position": {
+                "x": 0,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionC-B-11",
+              "uuid": "2ccc55db-1c12-484b-9599-5836035128ba",
+              "position": {
+                "x": 17,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionC-B-10",
+              "uuid": "243cfc36-1ed1-410d-806c-7e2677bb82ed",
+              "position": {
+                "x": 34,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionC-B-9",
+              "uuid": "a099c3ed-fa04-4748-aaa3-250649bcd16d",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionC-B-8",
+              "uuid": "fc298a05-3a90-446d-b1bd-6a89921fbef8",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionC-B-7",
+              "uuid": "a8943439-8fc8-4112-9506-6613923f99ae",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionC-B-6",
+              "uuid": "3b0cf515-3451-4bae-9f95-ddcb03d3522f",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "f95b2a9f-0f99-4540-a7c4-7951853e7a6c"
+        },
+        {
+          "position": {
+            "x": 829.0735125329725,
+            "y": 663.9283464109146
+          },
+          "row_number": "C",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionC-C-12",
+              "uuid": "bf4c6f57-a198-41c7-b6af-c8d39ada1845",
+              "position": {
+                "x": 0,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionC-C-11",
+              "uuid": "4a0a8603-5cf1-401d-8d41-f34e53a38ce0",
+              "position": {
+                "x": 17,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionC-C-10",
+              "uuid": "f71688c1-1de3-4a99-9f31-2bfaf3bc9ea9",
+              "position": {
+                "x": 34,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionC-C-9",
+              "uuid": "bed39248-a5b6-4307-b5f0-5263dc2136ce",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionC-C-8",
+              "uuid": "bcfc000d-4e0c-472b-8c57-d3c09054fe60",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionC-C-7",
+              "uuid": "3d8ac745-f481-4cce-9d15-5cdefb5ea60a",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionC-C-6",
+              "uuid": "8d228433-1b49-48c1-96bf-871c879dcc93",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionC-C-5",
+              "uuid": "0890cb3b-fc61-4561-a613-4828bfd4bb60",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "39eb1be2-ce44-48a3-9d9d-dd7b3e176625"
+        },
+        {
+          "position": {
+            "x": 829.0735125329725,
+            "y": 699.9283464109146
+          },
+          "row_number": "D",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionC-D-12",
+              "uuid": "3b403465-0edc-40f9-a9ff-9866c5075824",
+              "position": {
+                "x": 0,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionC-D-11",
+              "uuid": "f0462b54-1be0-4dd1-b5f5-7ee8307b4f9c",
+              "position": {
+                "x": 17,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionC-D-10",
+              "uuid": "27f757d2-7a93-431e-8180-e4c1e30dbc02",
+              "position": {
+                "x": 34,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionC-D-9",
+              "uuid": "0a646029-0329-4628-91db-1065caa0e1fd",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionC-D-8",
+              "uuid": "fd8e0e34-8cdc-4aa7-b856-b41b1077993f",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionC-D-7",
+              "uuid": "e03cba26-e187-4a89-842a-cf900f4de012",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionC-D-6",
+              "uuid": "80c5a385-9b94-4c5d-acf1-242d0d696a9e",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionC-D-5",
+              "uuid": "a3dfbf00-cb80-42c4-9f37-c4528c586aaf",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionC-D-4",
+              "uuid": "3807acb6-ad80-4805-ac25-a746cdaed0a8",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "72cca456-33f9-47e3-8e99-ab9bcad65dd8"
+        },
+        {
+          "position": {
+            "x": 829.0735125329725,
+            "y": 735.9283464109146
+          },
+          "row_number": "E",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionC-E-12",
+              "uuid": "2877a4a3-9472-4c04-a252-05a665791cbb",
+              "position": {
+                "x": 0,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionC-E-11",
+              "uuid": "04729903-fe84-405c-8230-4b80826250bc",
+              "position": {
+                "x": 17,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionC-E-10",
+              "uuid": "a0a3f30e-6c3c-4f0d-97f0-4e95a04245ff",
+              "position": {
+                "x": 34,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionC-E-9",
+              "uuid": "2125abfb-9ff4-4e4b-be9c-88abb145c18f",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionC-E-8",
+              "uuid": "9b2a4cf5-5adf-41fe-9e6d-dacf8bae01ac",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionC-E-7",
+              "uuid": "be9e47d9-8ae3-48c5-892c-508d4b0cf55c",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionC-E-6",
+              "uuid": "42414456-e551-4a83-9333-7b05bc9534b6",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionC-E-5",
+              "uuid": "7e88087b-ef29-490a-adcb-0e0f9962116b",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionC-E-4",
+              "uuid": "cb3bb918-2420-45ba-bd3b-980865e41ded",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionC-E-3",
+              "uuid": "b079cffb-b628-4724-8902-3d004fb49bb4",
+              "position": {
+                "x": 153,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "8c9ac930-034c-4d09-be4a-afcd5b367792"
+        },
+        {
+          "position": {
+            "x": 829.0735125329725,
+            "y": 771.9283464109146
+          },
+          "row_number": "F",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionC-F-12",
+              "uuid": "0843378c-190c-421b-bba3-9dcf4f09cd99",
+              "position": {
+                "x": 0,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionC-F-11",
+              "uuid": "56b0acac-9885-45f2-80df-882b32437188",
+              "position": {
+                "x": 17,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionC-F-10",
+              "uuid": "7f7f5a14-0fc6-48c9-9235-6273517edc66",
+              "position": {
+                "x": 34,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionC-F-9",
+              "uuid": "d7c63a2b-9541-4d38-bec3-59c6c38e8c93",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionC-F-8",
+              "uuid": "5f9cb610-a7d5-45eb-a30b-3d68933cadb4",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionC-F-7",
+              "uuid": "4e609411-368d-4787-a415-227199034c64",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionC-F-6",
+              "uuid": "67f9e3bc-3dfa-4d05-b2b3-2139c1011079",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionC-F-5",
+              "uuid": "1fe3509a-6a03-4d10-82fa-2977dbb772ea",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionC-F-4",
+              "uuid": "6da0efa9-3133-49fa-ae77-85804143ab67",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionC-F-3",
+              "uuid": "356c8932-ec9e-4550-816a-eea6beb4ace3",
+              "position": {
+                "x": 153,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionC-F-2",
+              "uuid": "fd7d613d-580d-417e-a345-85640fa6e2a0",
+              "position": {
+                "x": 170,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "9d5ee047-a0d9-4521-85df-21290cd9c862"
+        },
+        {
+          "position": {
+            "x": 829.0735125329725,
+            "y": 807.9283464109146
+          },
+          "row_number": "G",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionC-G-12",
+              "uuid": "43795633-f441-4bee-9e60-496ffd63da53",
+              "position": {
+                "x": 0,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionC-G-11",
+              "uuid": "0d2794fe-b56c-4521-b1e6-35acf379436b",
+              "position": {
+                "x": 17,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionC-G-10",
+              "uuid": "f0527169-cc67-44ec-93bb-6a3b1ce82ee2",
+              "position": {
+                "x": 34,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionC-G-9",
+              "uuid": "44bd48a1-7319-46c3-b7f9-c2c6962b7ed3",
+              "position": {
+                "x": 51,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionC-G-8",
+              "uuid": "e9312819-a1a9-4f96-ada3-512377dd402d",
+              "position": {
+                "x": 68,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionC-G-7",
+              "uuid": "8affb154-0126-4af8-9cad-cf6045b0dc2f",
+              "position": {
+                "x": 85,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionC-G-6",
+              "uuid": "fb0ac457-73e1-4f8e-a367-4b7f9c6be6e5",
+              "position": {
+                "x": 102,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionC-G-5",
+              "uuid": "8c7ceb5f-5e15-4500-a8e1-d88cee0841a5",
+              "position": {
+                "x": 119,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionC-G-4",
+              "uuid": "6967e23d-4731-4933-b54b-df42aaad7124",
+              "position": {
+                "x": 136,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionC-G-3",
+              "uuid": "e6570dbc-3112-4d0f-9526-cb6f18a70607",
+              "position": {
+                "x": 153,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionC-G-2",
+              "uuid": "fa30975c-80bf-4ccc-9b9c-ecfc7ca4817d",
+              "position": {
+                "x": 170,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionC-G-1",
+              "uuid": "999902cb-2b5c-46cd-b988-d68b3e6118ec",
+              "position": {
+                "x": 187,
+                "y": 0
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "93ebfba2-6084-4846-a7e1-0c66b192ab0c"
+        }
+      ],
+      "areas": []
+    },
+    {
+      "name": "Section D",
+      "zone_id": "SectionD",
+      "uuid": "beb1c7db-6f5b-4d6e-915a-9bfb63d7e0b8",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "rows": [
+        {
+          "position": {
+            "x": 907.9896778541349,
+            "y": 612.2838343148267
+          },
+          "row_number": "A",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionD-A-7",
+              "uuid": "6ecf6a76-61c9-4fab-bf4f-9a5cf89fa6fe",
+              "position": {
+                "x": 79.81337725446134,
+                "y": -72.75867516136586
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionD-A-6",
+              "uuid": "4387f930-373a-4c6e-b95a-1241ac8b0916",
+              "position": {
+                "x": 93.11560679687146,
+                "y": -84.88512102159352
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionD-A-5",
+              "uuid": "e4ab215c-936e-45a3-934d-3c18929abdd6",
+              "position": {
+                "x": 106.41783633928162,
+                "y": -97.0115668818211
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionD-A-4",
+              "uuid": "2f617394-33a6-4e7a-b81c-4a936a0f4f5e",
+              "position": {
+                "x": 119.72006588169174,
+                "y": -109.13801274204867
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionD-A-3",
+              "uuid": "62638987-486c-44ca-9e8d-aebfc6b8fb24",
+              "position": {
+                "x": 133.02229542410194,
+                "y": -121.26445860227614
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionD-A-2",
+              "uuid": "ce301243-bf8b-4590-bd5c-bfcba1181f49",
+              "position": {
+                "x": 146.32452496651197,
+                "y": -133.3909044625041
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionD-A-1",
+              "uuid": "09e1c7a6-87bc-4b6c-a536-8422bede03a0",
+              "position": {
+                "x": 159.626754508922,
+                "y": -145.51735032273206
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "583e56e5-f2dd-4b97-86d4-ab5bebb26206"
+        },
+        {
+          "position": {
+            "x": 944.1890324665591,
+            "y": 629.2392272176727
+          },
+          "row_number": "B",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionD-B-7",
+              "uuid": "726df1ce-6d94-437b-802d-ebc8ece80096",
+              "position": {
+                "x": 66.51114771205127,
+                "y": -60.63222930113811
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionD-B-6",
+              "uuid": "c0768e61-96cf-494d-b9e0-a2b8e0b5e23f",
+              "position": {
+                "x": 79.81337725446143,
+                "y": -72.75867516136564
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionD-B-5",
+              "uuid": "9ddf672d-9774-4512-baba-60fa0b7319af",
+              "position": {
+                "x": 93.11560679687152,
+                "y": -84.88512102159316
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionD-B-4",
+              "uuid": "57ac817e-f320-4d23-9641-85b0cfe20212",
+              "position": {
+                "x": 106.41783633928173,
+                "y": -97.01156688182083
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionD-B-3",
+              "uuid": "b04ab5f7-4968-4cb3-8b7d-f70dc3969c4f",
+              "position": {
+                "x": 119.72006588169187,
+                "y": -109.13801274204839
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionD-B-2",
+              "uuid": "44670422-53dd-4a7e-80b3-105e1a025afb",
+              "position": {
+                "x": 133.02229542410197,
+                "y": -121.264458602276
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionD-B-1",
+              "uuid": "3ca46609-16b2-458b-9cb3-b2c70fc942c9",
+              "position": {
+                "x": 146.3245249665123,
+                "y": -133.3909044625036
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "7a325db2-a1c3-488d-aaa8-c8c8867a0fd0"
+        },
+        {
+          "position": {
+            "x": 968.441924187014,
+            "y": 655.843686302493
+          },
+          "row_number": "C",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionD-C-7",
+              "uuid": "63802a24-25db-4a0e-96e6-ab9b0c1deb5c",
+              "position": {
+                "x": 66.51114771205148,
+                "y": -60.63222930113804
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionD-C-6",
+              "uuid": "fde0a0ba-13da-419f-9381-7467a1705087",
+              "position": {
+                "x": 79.8133772544617,
+                "y": -72.75867516136562
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionD-C-5",
+              "uuid": "e42d2a61-82f2-4e67-ae04-248bb1502a4f",
+              "position": {
+                "x": 93.11560679687179,
+                "y": -84.88512102159324
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionD-C-4",
+              "uuid": "6df2a3bf-1682-4507-937e-3d1bba5ea9eb",
+              "position": {
+                "x": 106.41783633928202,
+                "y": -97.01156688182078
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionD-C-3",
+              "uuid": "ec6aaaa2-477e-4382-9e1a-543f2974caa3",
+              "position": {
+                "x": 119.72006588169212,
+                "y": -109.13801274204843
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionD-C-2",
+              "uuid": "fe42a975-88ed-4783-bcda-0fbd05a80658",
+              "position": {
+                "x": 133.02229542410234,
+                "y": -121.26445860227601
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionD-C-1",
+              "uuid": "f4dbc58d-0a29-4021-a96c-2d8c0e1c53bd",
+              "position": {
+                "x": 146.32452496651234,
+                "y": -133.3909044625036
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "da9d11bc-9434-4f44-adc9-987574ca4da3"
+        },
+        {
+          "position": {
+            "x": 980.5690833753865,
+            "y": 693.0581613528865
+          },
+          "row_number": "D",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionD-D-9",
+              "uuid": "bea5ca82-2070-4493-a075-ad875916261e",
+              "position": {
+                "x": 53.20891816964073,
+                "y": -48.505783440910804
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionD-D-8",
+              "uuid": "e55b9b3d-c39c-43ee-8690-82f7dc01181b",
+              "position": {
+                "x": 66.51114771205096,
+                "y": -60.63222930113839
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionD-D-7",
+              "uuid": "5729212e-e233-46db-9369-51bba3bccf13",
+              "position": {
+                "x": 79.81337725446105,
+                "y": -72.75867516136601
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionD-D-6",
+              "uuid": "646edbc6-8687-4b2b-90df-ab3e1be941b3",
+              "position": {
+                "x": 93.11560679687116,
+                "y": -84.88512102159352
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionD-D-5",
+              "uuid": "26caab18-e1bf-4e5f-8ea1-eaf65281f504",
+              "position": {
+                "x": 106.41783633928146,
+                "y": -97.01156688182118
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionD-D-4",
+              "uuid": "8963b0eb-5c49-437c-aa9e-9926891c0be7",
+              "position": {
+                "x": 119.72006588169153,
+                "y": -109.13801274204877
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionD-D-3",
+              "uuid": "45055eb0-88b2-4775-bd6b-90e6ee406f69",
+              "position": {
+                "x": 133.02229542410166,
+                "y": -121.26445860227626
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionD-D-2",
+              "uuid": "80bef215-4edf-4f1c-bb86-57dfc8b5d33d",
+              "position": {
+                "x": 146.32452496651186,
+                "y": -133.39090446250384
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionD-D-1",
+              "uuid": "52630966-4f1a-4d0a-be95-9c7899e9f84c",
+              "position": {
+                "x": 159.62675450892206,
+                "y": -145.51735032273143
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "7766ff3e-c3d6-47a0-a57e-5f49d80c9171"
+        },
+        {
+          "position": {
+            "x": 1005.1251184091441,
+            "y": 720.2689070643104
+          },
+          "row_number": "E",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionD-E-10",
+              "uuid": "189c8f0c-0e16-4721-8210-ad91aec4fff9",
+              "position": {
+                "x": 39.9066886272303,
+                "y": -36.37933758068285
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionD-E-9",
+              "uuid": "48d413ec-a456-4715-af0f-283c2c12ea61",
+              "position": {
+                "x": 53.208918169640455,
+                "y": -48.50578344091042
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionD-E-8",
+              "uuid": "5bb56e61-02dc-45fb-9de0-eeede8204504",
+              "position": {
+                "x": 66.51114771205059,
+                "y": -60.63222930113802
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionD-E-7",
+              "uuid": "c28c3eb1-4387-4305-b394-dbb7974dd846",
+              "position": {
+                "x": 79.81337725446072,
+                "y": -72.75867516136559
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionD-E-6",
+              "uuid": "a0eaf542-f3df-41d2-a355-23953c171645",
+              "position": {
+                "x": 93.11560679687088,
+                "y": -84.88512102159316
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionD-E-5",
+              "uuid": "29dbbb8c-fcce-40a9-a807-7c79fe8667b2",
+              "position": {
+                "x": 106.41783633928102,
+                "y": -97.01156688182076
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionD-E-4",
+              "uuid": "3d3b0772-34c4-4645-b467-24e9aa1df753",
+              "position": {
+                "x": 119.72006588169124,
+                "y": -109.13801274204837
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionD-E-3",
+              "uuid": "18337c82-4222-4ff8-89b7-e2d29a2a2038",
+              "position": {
+                "x": 133.02229542410137,
+                "y": -121.26445860227595
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionD-E-2",
+              "uuid": "3b71a47b-b753-4f76-9ffa-40312f051fea",
+              "position": {
+                "x": 146.32452496651155,
+                "y": -133.39090446250353
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionD-E-1",
+              "uuid": "399d20ec-0af1-4d9a-9178-8a25d38af887",
+              "position": {
+                "x": 159.62675450892172,
+                "y": -145.5173503227311
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "aa9cbcac-fdb1-4a4b-ae6b-2f6bde4f6627"
+        },
+        {
+          "position": {
+            "x": 1030.1730951404086,
+            "y": 746.2250884229267
+          },
+          "row_number": "F",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionD-F-11",
+              "uuid": "94d3196e-1072-44df-8300-819e80f396f0",
+              "position": {
+                "x": 26.604459084820363,
+                "y": -24.252891720455494
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionD-F-10",
+              "uuid": "3b2305f2-18e2-49f3-a5a4-e65e30029ec6",
+              "position": {
+                "x": 39.906688627230515,
+                "y": -36.37933758068307
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionD-F-9",
+              "uuid": "48c99e31-e5c2-4eeb-a4cc-24f5123a553a",
+              "position": {
+                "x": 53.208918169640704,
+                "y": -48.50578344091072
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionD-F-8",
+              "uuid": "4a0ab265-3e5e-4521-bb1a-9fecf2430d45",
+              "position": {
+                "x": 66.51114771205086,
+                "y": -60.632229301138224
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionD-F-7",
+              "uuid": "9fb7a38e-9f77-454e-8648-7fb6d3c2b894",
+              "position": {
+                "x": 79.813377254461,
+                "y": -72.75867516136579
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionD-F-6",
+              "uuid": "3e3bad8a-dff1-41fb-b164-7164c18ffccf",
+              "position": {
+                "x": 93.11560679687105,
+                "y": -84.88512102159339
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionD-F-5",
+              "uuid": "654c8581-7e99-42a9-bf65-6a542b1864b2",
+              "position": {
+                "x": 106.41783633928128,
+                "y": -97.011566881821
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionD-F-4",
+              "uuid": "c2302455-9033-4744-aa91-fb075f86ce4a",
+              "position": {
+                "x": 119.72006588169147,
+                "y": -109.13801274204855
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionD-F-3",
+              "uuid": "d7f987f9-3965-4056-be43-adb16bed54f5",
+              "position": {
+                "x": 133.02229542410151,
+                "y": -121.26445860227612
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionD-F-2",
+              "uuid": "66a222b2-af06-47d4-9841-d1d9a565aad3",
+              "position": {
+                "x": 146.32452496651166,
+                "y": -133.39090446250376
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionD-F-1",
+              "uuid": "a858d7f8-021f-42eb-be92-6c730b7e5d28",
+              "position": {
+                "x": 159.6267545089218,
+                "y": -145.51735032273137
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "9daf3f58-5a1c-4aa5-86db-796adddfcc63"
+        },
+        {
+          "position": {
+            "x": 1065.4534910688349,
+            "y": 762.2615226417743
+          },
+          "row_number": "G",
+          "row_number_position": "both",
+          "seats": [
+            {
+              "seat_number": "12",
+              "seat_guid": "SectionD-G-12",
+              "uuid": "b2e2c404-6c63-4ddf-a8a8-350840dccc6a",
+              "position": {
+                "x": 5.542233338928781e-13,
+                "y": -1.7053025658242404e-13
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "11",
+              "seat_guid": "SectionD-G-11",
+              "uuid": "abd12332-639f-418c-9a42-49731d92b1b3",
+              "position": {
+                "x": 13.302229542410672,
+                "y": -12.126445860227989
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "10",
+              "seat_guid": "SectionD-G-10",
+              "uuid": "d4dd4081-eed9-4c74-932d-96f337b4356a",
+              "position": {
+                "x": 26.604459084820824,
+                "y": -24.25289172045545
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "9",
+              "seat_guid": "SectionD-G-9",
+              "uuid": "0aada716-c3cb-4029-b0de-e1ab11de9805",
+              "position": {
+                "x": 39.90668862723095,
+                "y": -36.37933758068313
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "8",
+              "seat_guid": "SectionD-G-8",
+              "uuid": "b5bc33ac-7189-4799-969b-e725f597a95b",
+              "position": {
+                "x": 53.20891816964111,
+                "y": -48.50578344091065
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "7",
+              "seat_guid": "SectionD-G-7",
+              "uuid": "d5185432-d331-49fb-8a2b-dd448d2b16bd",
+              "position": {
+                "x": 66.51114771205128,
+                "y": -60.63222930113825
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "6",
+              "seat_guid": "SectionD-G-6",
+              "uuid": "bb89c20c-e82b-4f54-97fe-e59f9f74d6dc",
+              "position": {
+                "x": 79.81337725446141,
+                "y": -72.7586751613658
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "5",
+              "seat_guid": "SectionD-G-5",
+              "uuid": "e6cb6eb9-d1a0-452c-b639-11b685a6ddc0",
+              "position": {
+                "x": 93.11560679687159,
+                "y": -84.88512102159345
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "4",
+              "seat_guid": "SectionD-G-4",
+              "uuid": "50a0aed1-b7b1-4461-a950-be85f1472425",
+              "position": {
+                "x": 106.41783633928172,
+                "y": -97.011566881821
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "3",
+              "seat_guid": "SectionD-G-3",
+              "uuid": "d2be9018-f464-40d1-a5a0-52ca87d290e8",
+              "position": {
+                "x": 119.72006588169182,
+                "y": -109.13801274204853
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "2",
+              "seat_guid": "SectionD-G-2",
+              "uuid": "b98d349f-4487-41b3-887d-3d3e13651a82",
+              "position": {
+                "x": 133.02229542410186,
+                "y": -121.26445860227619
+              },
+              "category": "Premium",
+              "radius": 8
+            },
+            {
+              "seat_number": "1",
+              "seat_guid": "SectionD-G-1",
+              "uuid": "347d8505-5b6a-42f7-894d-754e29409f9f",
+              "position": {
+                "x": 146.32452496651214,
+                "y": -133.39090446250378
+              },
+              "category": "Premium",
+              "radius": 8
+            }
+          ],
+          "uuid": "5b776f91-a445-410f-a244-3d03c0a85acb"
+        }
+      ],
+      "areas": []
+    }
+  ],
+  "size": {
+    "width": 1600,
+    "height": 1600
+  }
+}
